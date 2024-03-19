@@ -1,6 +1,4 @@
-# Weather_API_Visualisations
-
-## Project Reflection: Weather Analysis as We Approach the Equator
+# Weather_API_Visualisations: Project Reflection on Weather Data Analysis
 
 ## Background
 
