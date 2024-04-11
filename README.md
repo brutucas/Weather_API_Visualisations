@@ -4,7 +4,7 @@
 
 ## Background
 
-Exploring the true power of data, whether it's financial, political, or social, has always fascinated me. It's the definitive answers that data provides to questions that intrigue me the most. This curiosity led me to utilize my knowledge of Python requests, APIs, and JSON traversals to delve into a fundamental question: "What's the weather like as we approach the equator?"
+Exploring the true power of data, whether it's financial, political, or social, has always fascinated me. It's the definitive answers that data provides to questions that intrigue me the most. This curiosity led me to utilize my knowledge of Python requests, APIs, and JSON traversals to delve into a fundamental question: "What's the weather like as we approach the equator?" 
 
 At first glance, the answer seems obvious - it gets hotter. But how would I prove it scientifically? This project provided the perfect opportunity to explore this question in depth.
 
