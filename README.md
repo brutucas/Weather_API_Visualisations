@@ -2,7 +2,7 @@
 
 # Project Reflection on Weather Data Analysis
 
-## Background
+## Background 
 
 Exploring the true power of data, whether it's financial, political, or social, has always fascinated me. It's the definitive answers that data provides to questions that intrigue me the most. This curiosity led me to utilize my knowledge of Python requests, APIs, and JSON traversals to delve into a fundamental question: "What's the weather like as we approach the equator?" 
 
